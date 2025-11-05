@@ -27,7 +27,7 @@ cd password-guessing-game
 Run the program:
 
 ```bash
-python password_game.py
+python password_guessing_game.py
 ```
 
 ---
@@ -58,7 +58,7 @@ Game Over.
 ```
 📁 password-guessing-game
 │
-├── password_game.py   # Main Python file
+├── password_guessing_game.py   # Main Python file
 └── README.md          # Project documentation
 ```
 
